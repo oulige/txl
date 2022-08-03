@@ -1,0 +1,1 @@
+{"ResultType":0,"Message":"","AppendData":[{"Id":1,"TypeName":"政府机关"},{"Id":2,"TypeName":"交通出行"},{"Id":3,"TypeName":"医院诊所"},{"Id":4,"TypeName":"生活服务"},{"Id":5,"TypeName":"餐饮住宿"},{"Id":6,"TypeName":"美食外卖"}]}
